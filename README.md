@@ -1,7 +1,7 @@
 👋 Hi, I'm Yaroslav Kuzmin
 
 # 💫 About Me:
-I’m a Junior Frontend Developer with a strong desire to grow and make meaningful contributions in the tech industry. I’m passionate about building intuitive, useful, and engaging applications that solve real-world problems.I approach every challenge with curiosity and determination, and I’m committed to continuous learning and professional development.
+I’m a Junior Fullstach Developer with a strong desire to grow and make meaningful contributions in the tech industry. I’m passionate about building intuitive, useful, and engaging applications that solve real-world problems.I approach every challenge with curiosity and determination, and I’m committed to continuous learning and professional development.
 
 
 ## 🌐 Socials:
